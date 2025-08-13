@@ -3,7 +3,7 @@
 ## 🌟 About Me:
 - 🌥️ **Cloud Enthusiast** and **Aspiring Solutions Architect**.
 - 📜 **Certified AWS Cloud Practitioner**.
-- 📚 Currently learning **Cloud Computing** and **Artificial intelligence and machine learning** with the **Power Learn Project**.
+- 📚 Currently learning **Cloud Computing** and **Artificial intelligence and machine learning** 
 - 🌐 Passionate about , **Cloud Computing**, and **Technology Innovation**.
 - 🏋️‍♀️ In my free time, I enjoy **working out**.
 
